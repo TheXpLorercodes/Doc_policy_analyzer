@@ -1,0 +1,14 @@
+langchain
+langchain-text-splitters
+langchain-google-genai
+langchain-pinecone
+langchain-community
+pinecone-client
+fastapi
+uvicorn
+slowapi
+pypdf
+python-dotenv
+pydantic
+tiktoken
+fpdf
