@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from app.pinecone_store import search_query
+from app.pinecones import search_query
 from app.llm import generate_answer
 
 st.set_page_config(page_title="HR Policy Assistant", page_icon="💼")

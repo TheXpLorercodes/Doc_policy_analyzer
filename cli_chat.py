@@ -1,4 +1,4 @@
-from app.pinecone_store import search_query
+from app.pinecones import search_query
 from app.llm import generate_answer
 
 print("\n==============================")
